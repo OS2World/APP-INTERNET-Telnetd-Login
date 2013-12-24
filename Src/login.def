@@ -1,0 +1,19 @@
+;
+;  Definition module file for login
+;
+
+NAME  login  WINDOWCOMPAT  NEWFILES
+
+DESCRIPTION  'Login by Hethmon Brothers. Copyright (c)1995-1996 Hethmon Brothers. All Rights Reserved. Portions copyright (c)1995 NeoLogic Software Systems. All Rights Reserved.'
+
+PROTMODE
+
+
+
+
+
+
+
+
+
+

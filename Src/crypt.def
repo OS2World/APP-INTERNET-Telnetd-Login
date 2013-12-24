@@ -1,0 +1,14 @@
+;
+;  Definition module file for crypt dll
+;
+
+LIBRARY crypt INITINSTANCE TERMINSTANCE
+
+PROTMODE
+
+DATA MULTIPLE NONSHARED READWRITE LOADONCALL
+
+EXPORTS
+
+crypt
+
